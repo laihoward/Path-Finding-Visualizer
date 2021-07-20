@@ -1,0 +1,9 @@
+.wrapper{
+    
+    max-width: 80%;/*表格整體寬度*/
+    margin: auto;/*表格置中*/
+}
+
+.rowWrapper{
+    display: flex;/*數據橫向排列*/
+}
